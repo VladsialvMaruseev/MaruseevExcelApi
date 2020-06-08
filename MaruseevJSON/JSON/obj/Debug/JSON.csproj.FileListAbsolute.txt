@@ -1,0 +1,40 @@
+C:\Users\CONCAT\source\repos\JSON\JSON\bin\Debug\JSON.exe.config
+C:\Users\CONCAT\source\repos\JSON\JSON\bin\Debug\JSON.exe
+C:\Users\CONCAT\source\repos\JSON\JSON\bin\Debug\JSON.pdb
+C:\Users\CONCAT\source\repos\JSON\JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CONCAT\source\repos\JSON\JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CONCAT\source\repos\JSON\JSON\obj\Debug\JSON.csprojAssemblyReference.cache
+C:\Users\CONCAT\source\repos\JSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\CONCAT\source\repos\JSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+C:\Users\CONCAT\source\repos\JSON\JSON\obj\Debug\JSON.exe
+C:\Users\CONCAT\source\repos\JSON\JSON\obj\Debug\JSON.pdb
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\bin\Debug\JSON.exe.config
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\bin\Debug\JSON.exe
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\bin\Debug\JSON.pdb
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\bin\Debug\Newtonsoft.Json.dll
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\bin\Debug\Newtonsoft.Json.xml
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\obj\Debug\JSON.csprojAssemblyReference.cache
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\obj\Debug\JSON.exe
+F:\stud\2 курс ВД50-4-18\Разработка кода ИС\Практическая 7\deserializeJSON\JSON\obj\Debug\JSON.pdb
+C:\Users\marus\Desktop\deserializeJSON\JSON\bin\Debug\JSON.exe.config
+C:\Users\marus\Desktop\deserializeJSON\JSON\bin\Debug\JSON.exe
+C:\Users\marus\Desktop\deserializeJSON\JSON\bin\Debug\JSON.pdb
+C:\Users\marus\Desktop\deserializeJSON\JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marus\Desktop\deserializeJSON\JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marus\Desktop\deserializeJSON\JSON\obj\Debug\JSON.csprojAssemblyReference.cache
+C:\Users\marus\Desktop\deserializeJSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\marus\Desktop\deserializeJSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+C:\Users\marus\Desktop\deserializeJSON\JSON\obj\Debug\JSON.exe
+C:\Users\marus\Desktop\deserializeJSON\JSON\obj\Debug\JSON.pdb
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\bin\Debug\JSON.exe.config
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\bin\Debug\JSON.exe
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\bin\Debug\JSON.pdb
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\obj\Debug\JSON.csprojAssemblyReference.cache
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\obj\Debug\JSON.exe
+C:\Users\marus\Desktop\JSON\MaruseevJSON\JSON\obj\Debug\JSON.pdb
